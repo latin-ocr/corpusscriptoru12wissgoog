@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptoru12wissgoog_0022.png"; bbox 0 0 3300 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 370 2055 1401 2126">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 370 2055 1401 2126">
+     <span class='ocr_line' id='line_1_1' title="bbox 370 2055 1401 2126; baseline -0.001 -14"><span class='ocrx_word' id='word_1_1' title='bbox 370 2058 441 2112; x_wconf 91' lang='lat' dir='ltr'><strong>P=</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 453 2055 531 2112; x_wconf 81' lang='lat' dir='ltr'>codex</span> <span class='ocrx_word' id='word_1_3' title='bbox 549 2057 678 2126; x_wconf 76' lang='lat' dir='ltr'><strong>quondam</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 696 2057 849 2122; x_wconf 70' lang='lat' dir='ltr'><strong>Palatinus,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 867 2072 935 2111; x_wconf 83' lang='lat' dir='ltr'>nunc</span> <span class='ocrx_word' id='word_1_6' title='bbox 947 2057 1091 2112; x_wconf 73' lang='lat' dir='ltr'><strong>Vaticanus</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1108 2073 1179 2112; x_wconf 73' lang='lat' dir='ltr'><strong>num</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1197 2057 1257 2116; x_wconf 78' lang='lat'><strong>824</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1274 2072 1341 2112; x_wconf 59' lang='lat' dir='ltr'><strong>saec,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1361 2072 1401 2112; x_wconf 83' lang='lat'><strong>11.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 369 2193 975 2264">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 369 2193 975 2264">
+     <span class='ocr_line' id='line_1_2' title="bbox 369 2193 975 2264; baseline 0 -14"><span class='ocrx_word' id='word_1_11' title='bbox 369 2195 429 2250; x_wconf 82' lang='lat' dir='ltr'><strong>b:</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 441 2193 523 2249; x_wconf 75' lang='lat' dir='ltr'><strong>editio</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 540 2195 659 2264; x_wconf 79' lang='lat' dir='ltr'>princeps</span> <span class='ocrx_word' id='word_1_14' title='bbox 675 2194 839 2250; x_wconf 78' lang='lat' dir='ltr'>Basileensis</span> <span class='ocrx_word' id='word_1_15' title='bbox 856 2212 873 2250; x_wconf 76' lang='lat' dir='ltr'><strong>a</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 891 2195 975 2254; x_wconf 82' lang='lat'><strong>1556.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1654 5142">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1654 5142">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1654 5142; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1654 5142; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
